@@ -102,9 +102,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 384, 90)" id="gfx-bcea8c03-e8a6-4d6c-bf64-72d6299e5efb" display="block" class="djs-element djs-shape" data-element-id="bcea8c03-e8a6-4d6c-bf64-72d6299e5efb">
+    <g transform="matrix(1, 0, 0, 1, 384, 90)" id="gfx-6bb48f5a-87bd-40a8-928e-b6c6f7a3b866" display="block" class="djs-element djs-shape" data-element-id="6bb48f5a-87bd-40a8-928e-b6c6f7a3b866">
       <g class="djs-visual">
-        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="15.38538" y="14.75">¿Dio exacto?</tspan>
